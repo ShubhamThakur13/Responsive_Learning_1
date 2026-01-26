@@ -241,6 +241,487 @@ nav .left img{
     text-align: center;
 }
 
+.view3 .images .top{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 1rem;
+    padding: 1rem;
+}
+
+.view3 .images .bottom{
+    padding: 0rem 1rem;
+}
+
+.view3 .images .bottom{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.view3 .images .top .person1{
+    position: relative;
+    width: 100%;
+}
+
+.view3 .images .person1 img{
+    width: 100%;
+}
+
+
+.view3 .images .top .person1 h2{
+    position: absolute;
+    color: whitesmoke;
+    padding: 1rem;
+    bottom: 10%;
+}
+
+.view3 .images .top .person1 p{
+    position: absolute;
+    bottom: 5%;
+    padding: 1rem;
+        color: whitesmoke;
+}
+
+
+.view3 .images .top .person2{
+    position: relative;
+    width: 100%;
+}
+
+.view3 .images .person2 img{
+    width: 100%;
+}
+
+
+.view3 .images .top .person2 h2{
+    position: absolute;
+    bottom: 10%;
+    color: whitesmoke;
+    padding: 1rem;
+}
+.view3 .images .top .person2 p{
+    position: absolute;
+    bottom: 5%;
+    padding: 1rem;
+        color: whitesmoke;
+}
+
+.view3 .images .top .person3{
+    position: relative;
+    width: 100%;
+}
+
+.view3 .images .person3 img{
+    width: 100%;
+}
+
+
+.view3 .images .top .person3 h2{
+    position: absolute;
+    color: whitesmoke;
+    padding: 1rem;
+    bottom: 10%;
+}
+
+.view3 .images .top .person3 p{
+    position: absolute;
+    bottom: 5%;
+    padding: 1rem;
+        color: whitesmoke;
+}
+
+
+/* yuholuhohu */
+
+.view3 .images .bottom .person4{
+    position: relative;
+    width: 100%;
+}
+
+.view3 .images .person4 img{
+    width: 100%;
+}
+
+
+.view3 .images .bottom .person4 h2{
+    position: absolute;
+    color: whitesmoke;
+    padding: 1rem;
+    bottom: 10%;
+}
+
+.view3 .images .bottom .person4 p{
+    position: absolute;
+    bottom: 5%;
+    padding: 1rem;
+        color: whitesmoke;
+}
+
+
+.view3 .images .bottom .person5{
+    position: relative;
+    width: 100%;
+}
+
+.view3 .images .person5 img{
+    width: 100%;
+}
+
+
+.view3 .images .bottom .person5 h2{
+    position: absolute;
+    color: whitesmoke;
+    padding: 1rem;
+    bottom: 10%;
+}
+
+.view3 .images .bottom .person5 p{
+    position: absolute;
+    bottom: 5%;
+    padding: 1rem;
+        color: whitesmoke;
+}
+
+
+.view3 .images .bottom .person6{
+    position: relative;
+    width: 100%;
+}
+
+.view3 .images .person6 img{
+    width: 100%;
+}
+
+
+.view3 .images .bottom .person6 h2{
+    position: absolute;
+    color: whitesmoke;
+    padding: 1rem;
+    bottom: 10%;
+}
+
+.view3 .images .bottom .person6 p{
+    position: absolute;
+    bottom: 5%;
+    padding: 1rem;
+        color: whitesmoke;
+}
+
+
+.view4{
+    background-color: #001D21;
+    width: 100%;
+    padding: 1rem;
+}
+
+.view4 #title{
+    display: flex;
+    gap: 0.5rem;
+    justify-content: center;
+    align-items: center;
+    padding: 1.5rem;
+}
+
+.view4 .text{
+    display: flex;
+    flex-direction: column;
+    color: whitesmoke;
+    padding-top: 5rem;
+}
+
+.view4 .text h1{
+    text-align: center;
+}
+
+.view4 .text .bottom {
+    padding: 1rem;
+    text-align: center;
+    padding-bottom: 2rem;
+}
+
+.view4 .middle{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.view4 .middle .years{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    color: #999;
+}
+
+.years h3{
+    font-size: 1.4rem;
+    font-weight: 400;
+}
+
+.view4 .middle .line{
+    background-color: whitesmoke;
+    width: 100%;
+    height: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.line h4{
+    color: whitesmoke;
+}
+
+.view4 .last{
+    padding-top: 2rem;
+    display: flex;
+}
+
+.view4 .last p {
+
+    color: #999;
+    text-align: center;
+    padding-bottom: 5rem;
+}
+
+.years #twoone{
+    color: whitesmoke;
+}
+
+
+.view5{
+    width: 100%;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.view5 #title{
+    display: flex;
+    gap: 0.5rem;
+    justify-content: center;
+    align-items: center;
+    padding: 1.5rem;
+}
+
+.view5 .section2{
+    padding: 1rem;
+}
+
+.view5 .section2 .top{
+    width: 100%;
+}
+
+.section2 .top img{
+    display: block;
+    margin: auto;
+    width: 60%;
+    border-radius: 0.7rem;
+    padding-bottom: 1rem;
+}
+
+.section2 .middle p{
+    padding-top: 1rem;
+    font-size: 2rem;
+    text-align: center;
+}
+
+.section2 .bottom .name p{
+    padding-top: 1rem;
+    font-size: 2rem;
+    text-align: center;
+}
+
+.section2 .bottom .title p{
+    padding-top: 1rem;
+    font-size: 1.3rem;
+    text-align: center;
+    color: #999;
+}
+
+.section2 .bottom .arrow {
+    display: flex;
+    justify-content: center;
+    padding-top: 1rem;
+}
+
+.section2 .bottom .arrow h4 {
+    font-size: 3rem;
+    font-weight: 100;
+
+}
+
+.view6{
+    width: 100%;
+    background-color: #001D21;
+    display: flex;
+    padding: 1rem;
+    flex-direction: column;
+}
+
+.view6 .top h2{
+    font-size: 2.5rem;
+    text-align: center;
+    color: #CDCBFF;
+    font-weight: 300;
+}
+
+.view6 .top{
+    padding-top: 3rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.view6 .top button{
+    background-color: whitesmoke;
+    color: black;
+    border: none;
+    border-radius: 0.7rem;
+    padding: 1rem 6rem;
+    width: 90%;
+    margin: 1rem;
+    cursor: pointer;
+}
+
+.view6 .line{
+    width: 100%;
+    height: 1px;
+    background-color: #999;
+}
+
+.view6 .middle{
+    display: flex;
+    flex-direction: column;
+}
+
+.view6 .heading h1{
+    padding-top: 1rem;
+    font-size: 9rem;
+    text-align: center;
+    color: #CDCBFF;
+    font-weight: 400;
+}
+
+.view6 .middle .section1{
+    display: grid;
+    flex-direction: row;
+    grid-template-rows: 50% 50%; 
+    grid-template-columns: 40% 60%;
+    grid-template-areas: "home about"
+    "contact about";
+    color: #999;
+
+}
+
+.middle .section1 .home{
+    grid-area: home;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    padding: 1rem;
+}
+
+.middle .section1 .contact{
+    grid-area: contact;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    padding: 1rem;
+}
+
+.middle .section1 .about{
+    grid-area: about;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 1.5rem;
+    padding: 1rem;
+}
+
+.view6 .middle .section2 .top{
+    padding-top: 1rem;
+    display: flex;
+    flex-direction: column;
+    color: rgba(214, 214, 214, 0.778);
+}
+
+.view6 .middle .section2 .top p{
+    font-size: 1.3rem;
+    text-align: center;
+    font-weight: 400;
+}
+
+.view6 .middle .section2 .top .social{
+    padding-top: 1rem;
+    display: flex;
+    gap: 1rem;
+    padding-bottom: 1rem;
+}
+
+.view6 .middle .section2 .top .social .insta{
+    padding: 0.5rem;
+     width: 3rem;
+  height: 3rem;
+  font-size: 1.5rem;
+  border-radius: 50%;
+  text-align: center;
+    border: 1px solid white;
+    background-color: #fffefe3f;
+}
+
+.view6 .middle .section2 .top .social .fb{
+    padding: 0.5rem;
+     width: 3rem;
+  height: 3rem;
+  font-size: 1.5rem;
+  border-radius: 50%;
+  text-align: center;
+    border: 1px solid white;
+     background-color: #fffefe3f;
+}
+
+
+.view6 .middle .section2 .top .social .link{
+    padding: 0.5rem;
+     width: 3rem;
+  height: 3rem;
+  font-size: 1.5rem;
+  border-radius: 50%;
+  text-align: center;
+    border: 1px solid white;
+     background-color: #fffefe3f;
+}
+
+.view6 .middle .section2 .top .social .x{
+    padding: 0.5rem;
+     width: 3rem;
+  height: 3rem;
+  font-size: 1.5rem;
+  border-radius: 50%;
+  text-align: center;
+    border: 1px solid white;
+     background-color: #fffefe3f;
+}
+
+
+.view6 .footer{
+    padding: 1rem;
+}
+
+ .view6 .footer p{
+    text-align: center;
+    color: #999;
+    font-weight: 200;
+    padding: 1rem;
+    font-size: 1.2rem;
+}
+
+
+
+
+
 @media (min-width:900px) {
     .right{
         display: none;
@@ -316,6 +797,7 @@ nav .left img{
     .view2{
         flex-direction: row;
         padding-top: 3rem;
+        padding-bottom: 3rem;
     }
 
     .view2 .top .text{
@@ -380,4 +862,126 @@ nav .left img{
         justify-content: space-between;
         padding-right: 4rem;
     }
+
+    .view3 .text{
+        margin: auto;
+        padding-left: 5rem;
+        padding-bottom: 2rem;
+    }
+
+    .view3 #title{
+        padding-top: 3rem;
+        justify-content: flex-start;
+        font-size: 1.5rem;
+    }
+
+    .view3 .text h1{
+        text-align: left;
+    }
+
+    .view3 .images .top{
+        flex-direction: row;
+    }
+
+    .view3 .images .bottom{
+        flex-direction: row;
+    }
+
+    .view3 .images{
+        padding: 0rem 5rem;
+        padding-bottom: 5rem;
+    }
+
+
+    .view4{
+        padding: 5rem;
+    }
+
+    .view4 .text h1{
+        text-align: left;
+    }
+
+    .view4 .text #title{
+        justify-content: flex-start;
+        font-size: 1.5rem;
+        padding: 0rem;
+    }
+
+    .view4 .text .bottom {
+    text-align: left;
+    padding-left: 0rem;
+}
+
+.view4 .last p{
+    text-align: left;
+}
+
+.years h3{
+    font-size:5rem;
+}
+
+.view5{
+    flex-direction: row;
+}
+
+.view5 .section1{
+    padding-top: 3rem;
+}
+
+.view5 .section1 p{
+    font-size: 1.3rem;
+}
+
+.view5 .section2 .top{
+    padding-top: 3rem;
+    width: 70%;
+}
+
+.section2 .top img{
+    margin: 0rem;
+    width: 50%;
+    border-radius: 0.7rem;
+    padding-bottom: 1rem;
+}
+
+.view5 .section2 .middle p{
+    text-align: left;
+}
+
+.view5 .section2 .bottom p{
+    text-align: left;
+}
+
+.view5 .section2 .bottom .arrow{
+    justify-content: flex-start;
+}
+
+.view6 .top{
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 1rem 5rem;
+
+}
+
+.view6 .top button{
+    width: 15%;
+    padding: 1rem 2rem;
+    font-size: 1.3rem;
+}
+
+.view6 .heading h1{
+    padding-top: 1rem;
+    font-size: 30rem;
+    font-weight: 400;
+}
+
+.view6 .middle{
+    flex-direction: row-reverse;
+}
+
+.view6 .middle .section1{
+    display: flex;
+    justify-content: space-evenly;
+    padding-bottom: 2rem;
+}
 }
